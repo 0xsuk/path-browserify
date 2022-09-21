@@ -1,18 +1,14 @@
 {
   "name": "path-browserify",
-  "description": "the path module from node core for browsers",
+  "description": "the path module from node core for browsers that does not use process",
   "version": "1.0.1",
-  "author": {
-    "name": "James Halliday",
-    "email": "mail@substack.net",
-    "url": "http://substack.net"
-  },
-  "bugs": "https://github.com/browserify/path-browserify/issues",
+  "author": "0xsuk <iam0xsuk@gmail.com>",
+  "bugs": "https://github.com/0xsuk/path-browserify/issues",
   "dependencies": {},
   "devDependencies": {
     "tape": "^4.9.0"
   },
-  "homepage": "https://github.com/browserify/path-browserify",
+  "homepage": "https://github.com/0xsuk/path-browserify",
   "keywords": [
     "browser",
     "browserify",
@@ -22,7 +18,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/browserify/path-browserify.git"
+    "url": "git://github.com/0xsuk/path-browserify.git"
   },
   "scripts": {
     "test": "node test"
